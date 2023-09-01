@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6a801210-40e5-40b0-bb26-cb5afd59f3f0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/smartseekr",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
